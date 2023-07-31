@@ -1,0 +1,270 @@
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\appsettings.json
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.exe
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.deps.json
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.runtimeconfig.json
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.pdb
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.AssemblyReference.cache
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.AssemblyInfoInputs.cache
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.AssemblyInfo.cs
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\scopedcss\bundle\IMS_SOFT_API.styles.css
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\refint\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.pdb
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.genruntimeconfig.cache
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\ref\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vishal\Desktop\MIS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.CopyComplete
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\appsettings.json
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.exe
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.deps.json
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.runtimeconfig.json
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.pdb
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.AssemblyReference.cache
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.AssemblyInfoInputs.cache
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.AssemblyInfo.cs
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\scopedcss\bundle\IMS_SOFT_API.styles.css
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.CopyComplete
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\refint\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.pdb
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.genruntimeconfig.cache
+C:\Users\vishal\Desktop\IMS_PROJECT\IMS_SOFT_API\obj\Debug\net6.0\ref\IMS_SOFT_API.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\appsettings.json
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.exe
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.deps.json
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.runtimeconfig.json
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.pdb
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.AssemblyReference.cache
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.AssemblyInfoInputs.cache
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.AssemblyInfo.cs
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.CoreCompileInputs.cache
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\scopedcss\bundle\IMS_SOFT_API.styles.css
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.CopyComplete
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\refint\IMS_SOFT_API.dll
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.pdb
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.genruntimeconfig.cache
+C:\Users\kirtika\Desktop\api\api\IMS_SOFT_API\obj\Debug\net6.0\ref\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.AssemblyReference.cache
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.AssemblyInfoInputs.cache
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.AssemblyInfo.cs
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.CoreCompileInputs.cache
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\refint\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.pdb
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\appsettings.json
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.exe
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.deps.json
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.runtimeconfig.json
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.pdb
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\scopedcss\bundle\IMS_SOFT_API.styles.css
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.CopyComplete
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.genruntimeconfig.cache
+C:\Users\vishal\Desktop\New folder (3)\dotnetproject\IMS_SOFT_API\obj\Debug\net6.0\ref\IMS_SOFT_API.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\appsettings.json
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.exe
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.deps.json
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.runtimeconfig.json
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\IMS_SOFT_API.pdb
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.AssemblyReference.cache
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.AssemblyInfoInputs.cache
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.AssemblyInfo.cs
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.CoreCompileInputs.cache
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\scopedcss\bundle\IMS_SOFT_API.styles.css
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.csproj.CopyComplete
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\refint\IMS_SOFT_API.dll
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.pdb
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\IMS_SOFT_API.genruntimeconfig.cache
+C:\Users\kirtika\Desktop\inventory\IMS_SOFT_API\obj\Debug\net6.0\ref\IMS_SOFT_API.dll
